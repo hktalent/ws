@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/flipped-aurora/ws/core/biz"
+	"github.com/hktalent/ws/core/biz"
 
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
